@@ -1,4 +1,4 @@
-x=5
+x=22
 if x<10:
     print("Smaller than 10")
 else:

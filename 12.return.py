@@ -6,4 +6,4 @@ def greet(lang):
     else:
         return "Mingalarpar"
 
-print(greet("mm"))
+print(greet("en"))

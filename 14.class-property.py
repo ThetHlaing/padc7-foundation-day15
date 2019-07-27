@@ -19,7 +19,7 @@ class Animal:
     def delLeg(self): 
         del self._leg 
 
-    leg = property(getLeg,setLeg)
+    leg = property(getLeg,setLeg,delLeg)
 
 
 animal = Animal("Breakie")

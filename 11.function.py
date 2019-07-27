@@ -1,7 +1,9 @@
 # Accept a parameter in the function and pass in your name
 
-def hello():
-    print("Hola")
-    print("Hello")
+def hello(lang):
+    if lang == 'es':
+        print("Hola")
+    else:
+        print("Hello")
 
-hello()
+hello('en')
