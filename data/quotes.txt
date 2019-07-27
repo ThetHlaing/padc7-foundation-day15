@@ -1,0 +1,6 @@
+In many ways, it's a dull language, borrowing solid old concepts from many other languages & styles: boring syntax, 
+unsurprising semantics,
+few automatic coercions, etc etc. 
+But that's one of the things I like about Python
+The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code -- not in reams of trivial code that bores the reader to death.
+My favorite language for maintainability is Python. It has simple, clean syntax, object encapsulation, good library support, and optional named parameters.
